@@ -1,0 +1,11 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  margin: 20px;
+}
+
+.logo {
+  height: 150px;
+  pointer-events: none;
+  border: 2px solid;
+}
